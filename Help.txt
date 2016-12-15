@@ -6,9 +6,6 @@ All code to test one or more aspects of the program should go in Trial/Proof of 
 
 As the final product comes together, it will go into Final Code/. This folder will likely be the only one to vary branch-to-branch.
 
-As of right now, all ideas are simply that and are subject to change. If you see a possible problem with an idea or piece of code,
-either make the change and mention/explain it in the commit or create a text file in Documentation/ named Problem-fileWithProblem and
-address the issue there. As stated earlier everything is subject to change. That includes this system. If you think there is an
-easier or more efficient way to manage production, let me know.
+As of right now, all ideas are simply that and are subject to change. If you see a possible problem with an idea or piece of code, either make the change and mention/explain it in the commit or create a text file in Documentation/ named Problem-fileWithProblem and address the issue there. As stated earlier everything is subject to change. That includes this system. If you think there is an easier or more efficient way to manage production, let me know.
 
 Footnote: "Problem-fileWithProblem" means "Problem-" and then the name of the file you see an issue in.
